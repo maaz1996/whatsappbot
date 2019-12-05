@@ -15,3 +15,7 @@ input("Enter anything after scanning QR code")
 
 user = driver.find_element_by_xpath('//span[@title = "{}"]'.format(name))
 user.click()
+
+#user.click
+#user enters the message
+#identifying the columns for user to send the message successfully.
